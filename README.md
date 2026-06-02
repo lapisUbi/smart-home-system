@@ -42,30 +42,7 @@ pip install opencv-python cvzone SpeechRecognition pyserial
 - При включении режима жестов — обработка кадра и отправка команд при обнаружении жестов.
 - При включении режима голоса — голосовой поток начинает слушать и отправлять команды по совпадению фраз.
 
-About
-
-Smart home system for mini doll house(voice + gesture controll)
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-0 watching
-Forks
-0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors 1
+Contributors 2
 
     @meinetwegen
-    meinetwegen
-
-Languages
-
-    Python 62.0%
-    C++ 38.0% 
-
+    @lapisUbi
